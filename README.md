@@ -1,1 +1,3 @@
-# Women-s-E-commerce-Clothing-Reviews-Data-and-Text-Analysis
+# Here is the link to my youtube video to see my Analysis which has been performed using RapidMiner Studio
+
+https://youtu.be/Ocu0JuM7WrI
